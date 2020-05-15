@@ -189,7 +189,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Muhammad Ehsan ul Haq - [@EhsanBinEjaz](https://twitter.com/EhsanBinEjaz) - ehsanulhaq18@gmail.com
 
-Project Link: [https://github.com/Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet](https://github.com/Ehsan1997/ImageSegmentation-UNET-DeepLab-SegNet)
+Project Link: [https://github.com/Ehsan1997/ObjectDetection-FRCNN-YOLO-Retina](https://github.com/Ehsan1997/ObjectDetection-FRCNN-YOLO-Retina)
 
 
 
