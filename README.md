@@ -133,7 +133,7 @@ Different Hyperparameters were used for the training. Approximately 100 epochs, 
 | ------------- | ------------- | ------------- | ------------- |
 | Faster RCNN | 1.18 | 18.04 | 21.01 |
 | Retinanet | 0.6 | 68.03 | 65.3 |
-| YOLO | 0.68 | 21.1 | 22.7 |
+| YOLO | 19.60 | 54.1 | 53.7 |
 
 
 
